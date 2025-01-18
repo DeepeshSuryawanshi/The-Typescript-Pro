@@ -3,5 +3,6 @@ function studentPrint(person:{name:string,city:"Delhi" | "Noida" | "Ahmedaabd" |
     return `This Student ${person.name} from ${person.city}`
 }
 let s1 = studentPrint({name:"Deepesh",city:"Gwalior"}); // work find
+//@ts-ignore
 let s2 = studentPrint({name:"Dheraj",city:"Akwai"}) // throing error. 
 // city "Akwai" is not assiable to the function
