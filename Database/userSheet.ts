@@ -301,4 +301,4 @@ const users = [
         "created_at": "2023-05-01T19:58:48"
     }
 ]
-export default users;
+export { users};
