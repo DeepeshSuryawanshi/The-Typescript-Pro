@@ -11,7 +11,7 @@ This project is a comprehensive collection of JavaScript functions, data types, 
 Deepesh suryavanshi
 - **linkdin**: [Deepesh suryavanshi](https://www.linkedin.com/in/deepesh-suryavanshi/)
 - **Twitter**: [Deepesh Dev](https://x.com/DeepeshSinghDev)
-- **Instagram:** [@thedeepesh_x](https://www.instagram.com/deepeshxthakur/)
+- **Instagram:** [@deepeshs.ai](https://www.instagram.com/deepeshs.ai/)
 - **Blog**: [Bloger.cm](http://deepeshdeveloper.blogspot.com/)
 
 ## Features
